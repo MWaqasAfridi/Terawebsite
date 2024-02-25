@@ -1,0 +1,86 @@
+.navbar-brand>img{
+    width: 120px;
+    height: 25px;
+}
+.leftright{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.col-left{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 400px;
+}
+.col-right>img{
+    margin-top: 50px;
+    width: 450px;
+}
+#btn{
+    width: 170px;
+}
+.lft-rght-centr{
+    /* height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center; */
+    padding-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(101, 140, 101);
+}
+.col>#white{
+    color: beige;
+}
+.col>input{
+    width: 400px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.col>button{
+    width: 250px;
+    border-radius: 10px;
+    padding: 5px;
+}
+/* .heading-circle-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+} */
+.col>#gray{
+    color: gray;
+}
+.col span{
+    color: rgb(101, 140, 101);
+}
+.col>p{
+    color: gray;
+   
+}
+.circlee{
+    background-image: url(images/circle.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.circlee>#imge{
+    margin-left: 15px;
+    
+
+}
+#frme{
+    width: 150px;
+}
+.col>#btn1{
+    width: 100px;
+    border-radius: 10px;
+}
+#btn2{
+    width: 100px;
+}
+#para{
+    text-align: center;
+}
+
